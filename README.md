@@ -3,4 +3,5 @@ https://discord.gg/antigore
 
 # HOW TO RUN:
 pip install requests colorama
+
 python main.py
